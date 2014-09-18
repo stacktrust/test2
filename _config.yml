@@ -3,7 +3,7 @@ title: OpenXT
 email: 
 description: > # this means to ignore newlines until "baseurl:" 
   Development toolkit for hardware-assisted security research and appliance integration. Integrity measurement, virtualization, encapsulation and privacy.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/test1/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username:  OpenXT
 github_username:  
