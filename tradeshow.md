@@ -4,7 +4,7 @@ title: Trade Show
 permalink: /tradeshow/
 ---
 
-A small selection of media on the art of selling information security.  How long is the path from technical limits to buyer-relevant metaphors? 
+A small selection of media on the art of information security communication.  How long is the path from technical limits to buyer-relevant metaphors? 
 
 + ###[The Analogies Project](https://theanalogiesproject.org)
 
