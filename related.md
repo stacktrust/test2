@@ -42,11 +42,12 @@ permalink: /related/
 
 # Proprietary
 
-+ [Bromium vSentry](http://www.bromium.com/products/vsentry.html) -- [Ian Pratt, 7m video](http://www.bromium.com/videos/how-does-microvirtualization-protect-you.html), *USA, UK*
-+ [Cloudozer](http://cloudozer.com/) &middot; [ Erlang on Xen](http://erlangonxen.org/) -- [Maxim Kharchenko, Jun 2014, 60m video](https://air.mozilla.org/june-sf-erlang-meetup/), *UK, Germany*
-+ [Fox IT DataDiode](https://www.fox-it.com/en/products/datadiode/) -- [2010, 4m video](http://www.youtube.com/watch?v=vemwnQmnvuo), *Netherlands*
-+ [Green Hills Integrity Multivisor](http://www.ghs.com/products/rtos/integrity_virtualization.html) -- [2011, 24m video](http://www.youtube.com/watch?v=71lBF24F3h0), *USA, UK*
++ [Bromium vSentry](http://www.bromium.com/products/vsentry.html), *USA, UK*
++ [Cloudozer](http://cloudozer.com/) &middot; [ Erlang on Xen](http://erlangonxen.org/), *UK, Germany*
++ [Fox IT DataDiode](https://www.fox-it.com/en/products/datadiode/), *Netherlands*
++ [Green Hills Integrity Multivisor](http://www.ghs.com/products/rtos/integrity_virtualization.html), *USA, UK*
 + [Moka5](http://www.moka5.com/), *USA*
 + [Raytheon Trusted Thin Client](https://www.trustedcs.com/products/TrustedThinClient.html), *USA*
 + [Secunet SINA Virtual Workstation](http://www.secunet.com/en/topics-solutions/high-security/sina/sina-workstation/), *Germany*
 + [Tresys VMFortress](http://www.tresys.com/products/vm-fortress.php), *USA*
+
