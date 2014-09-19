@@ -4,7 +4,7 @@ title: Development
 permalink: /development/
 ---
 
-Please read the [contribution](https://github.com/OpenXT/openxt/wiki/Contributing) guidelines. There are 50+ source repositories on [Github](https://github.com/openxt), with [build instructions](https://github.com/OpenXT/openxt/wiki/How%20to%20build%20OpenXT).  Issues are tracked in [JIRA](https://openxt.atlassian.net).
+Please read the [contribution](https://github.com/OpenXT/openxt/wiki/Contributing) guidelines. There are 50+ source repositories on [Github](https://github.com/openxt), with [build instructions](https://github.com/OpenXT/openxt/wiki/How%20to%20build%20OpenXT).  Issues and enhancements are tracked in [JIRA](https://openxt.atlassian.net).
 
 These documents are dated, especially with respect to video architecture, but may be useful to new developers.  They need to be converted to the Github wiki and edited to correct/remove dated sections.
 
