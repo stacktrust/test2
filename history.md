@@ -10,7 +10,7 @@ permalink: /history/
 
 * LinuxCon NA, [Security in the Cloud: Xen, KVM, Containers](http://www.slideshare.net/xen_com_mgr/lcna14-security-of-virtualization-solutions), *George Dunlap*
 
-* Xen Summit, [Security and the Properties of a Xen Virtualization Platform](http://www.slideshare.net/xen_com_mgr/tricca-xen-summit2014), *Philip Tricca*.
+* Xen Summit, [Security and the Properties of a Xen Virtualization Platform](http://www.slideshare.net/xen_com_mgr/tricca-xen-summit2014), *Philip Tricca*
 
 2013
 
