@@ -22,7 +22,6 @@
           </li>
           {% endif %}
 
-
           {% if site.github_wikipath %}
           <li>
             <a href="https://github.com/{{ site.github_wikipath }}">
@@ -32,6 +31,17 @@
                 </svg>
               </span>
               <span class="username">Wiki</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.jira_url %}
+          <li>
+            <a href="{{ site.jira_url }}">
+              <span class="icon  icon--github">
+		<img width=16 src="{{ site.baseurl }}/images/jira.png">
+              </span>
+              <span class="username">JIRA</span>
             </a>
           </li>
           {% endif %}

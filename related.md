@@ -22,6 +22,13 @@ permalink: /related/
 + [Research](https://qubes-os.org/wiki/QubesResearch)
 + [Users](https://groups.google.com/forum/#!forum/qubes-users) &middot; [Developers](https://groups.google.com/forum/#!forum/qubes-devel) &middot; [News](http://theinvisiblethings.blogspot.com/)
 
+# Docker
+
+> "... is an open platform for developers and sysadmins to build, ship, and run distributed applications ... Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments."
+
++ [History](http://en.wikipedia.org/wiki/Docker_%28software%29)
++ [Software](https://www.docker.com/), USA
+
 # Unikernels
 
 + C/Java: [Cloudius OSV](http://osv.io), *Israel*
@@ -36,18 +43,18 @@ permalink: /related/
 
 # Ethos OS
 
-> "... provides stronger security services which are more resistant to attack and abstractions which are less prone to abuse by attackers. As an example of the former, all networking in Ethos is encrypted, authenticated, and authorized. As an example of the latter, Ethos I/O is typed (as in programming languages) ensuring that I/O conforms to declared typed and thus preventing many attacks based on ill-formed input."
+> "... provides stronger security services which are more resistant to attack and abstractions which are less prone to abuse by attackers. As an example of the former, all networking in Ethos is encrypted, authenticated, and authorized. As an example of the latter, Ethos I/O is typed (as in programming languages) ensuring that I/O conforms to declared types and thus preventing many attacks based on ill-formed input."
 
 + [U of Illinois Research](https://www.ethos-os.org/), *USA*
 
 # Proprietary
 
-+ [Bromium vSentry](http://www.bromium.com/products/vsentry.html), *USA, UK*
++ [Bromium &middot; vSentry](http://www.bromium.com/products/vsentry.html), *USA, UK*
 + [Cloudozer](http://cloudozer.com/) &middot; [ Erlang on Xen](http://erlangonxen.org/), *UK, Germany*
-+ [Fox IT DataDiode](https://www.fox-it.com/en/products/datadiode/), *Netherlands*
-+ [Green Hills Integrity Multivisor](http://www.ghs.com/products/rtos/integrity_virtualization.html), *USA, UK*
++ [Fox IT &middot; DataDiode](https://www.fox-it.com/en/products/datadiode/), *Netherlands*
++ [Green Hills &middot; Integrity Multivisor](http://www.ghs.com/products/rtos/integrity_virtualization.html), *USA, UK*
 + [Moka5](http://www.moka5.com/), *USA*
-+ [Raytheon Trusted Thin Client](https://www.trustedcs.com/products/TrustedThinClient.html), *USA*
-+ [Secunet SINA Virtual Workstation](http://www.secunet.com/en/topics-solutions/high-security/sina/sina-workstation/), *Germany*
-+ [Tresys VMFortress](http://www.tresys.com/products/vm-fortress.php), *USA*
++ [Raytheon &middot; Trusted Thin Client](https://www.trustedcs.com/products/TrustedThinClient.html), *USA*
++ [Secunet &middot; SINA Virtual Workstation](http://www.secunet.com/en/topics-solutions/high-security/sina/sina-workstation/), *Germany*
++ [Tresys &middot; VMFortress](http://www.tresys.com/products/vm-fortress.php), *USA*
 
