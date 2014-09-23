@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/test1" # the subpath of your site, e.g. /blog/
 url: "https://transpute.github.io" # the base hostname & protocol for your site
 twitter_username:  OpenXT
+jira_url: https://openxt.atlassian.net
 github_username:  
 github_wikipath: OpenXT/openxt/wiki
 googlegroup: openxt
