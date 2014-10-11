@@ -4,7 +4,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:" 
   Development toolkit for hardware-assisted security research and appliance integration. Integrity measurement, virtualization, encapsulation and privacy.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://transpute.github.io" # the base hostname & protocol for your site
+url: "http://openxt.org" # the base hostname & protocol for your site
 twitter_username:  OpenXT
 jira_url: https://openxt.atlassian.net
 github_username:  
