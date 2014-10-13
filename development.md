@@ -15,7 +15,7 @@ The documents below are dated, especially with respect to video architecture, bu
 
 
 
-We are hosting a [mirror](http://openxt.org/mirror) of 3rd-party components needed for an appliance build. Please cache these files locally and build from your local mirror. The system hosting the mirror has limited bandwidth. 
+We are hosting a [mirror](http://mirror.openxt.org) of 3rd-party components needed for an appliance build. Please cache these files locally and build from your local mirror. The system hosting the mirror has limited bandwidth. 
 
 Questions and feedback are welcome on the [mailing list](https://groups.google.com/forum/#!forum/openxt).
 
