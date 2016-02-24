@@ -8,10 +8,10 @@ Please read the [contribution](https://github.com/OpenXT/openxt/wiki/Contributin
 
 The documents below are dated, especially with respect to video architecture, but may be useful to new developers.  They will be converted to the Github wiki and edited to revise or remove dated sections.
 
-+ [OpenXT Architecture Guide](https://github.com/OpenXT-Extras/docs/blob/master/XTArchitectureGuide.pdf?raw=true)
-+ [OpenXT Appliance Developer Guide](https://github.com/OpenXT-Extras/docs/blob/master/XTEngineDeveloperGuide.pdf?raw=true)
-+ [OpenXT Appliance Administrator Guide](https://github.com/OpenXT-Extras/docs/blob/master/XTEngineAdministratorGuide.pdf?raw=true)
-+ [OpenXT Management Administrator Guide](https://github.com/OpenXT-Extras/docs/blob/master/XTSynchronizerAdministratorGuide.pdf?raw=true)
++ [OpenXT Architecture Guide](https://github.com/OpenXT-Extras/docs/blob/master/snapshot/XTArchitectureGuide.pdf?raw=true)
++ [OpenXT Appliance Developer Guide](https://github.com/OpenXT-Extras/docs/blob/master/snapshot/XTEngineDeveloperGuide.pdf?raw=true)
++ [OpenXT Appliance Administrator Guide](https://github.com/OpenXT-Extras/docs/blob/master/snapshot/XTEngineAdministratorGuide.pdf?raw=true)
++ [OpenXT Management Administrator Guide](https://github.com/OpenXT-Extras/docs/blob/master/snapshot/XTSynchronizerAdministratorGuide.pdf?raw=true)
 
 
 
