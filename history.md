@@ -10,13 +10,13 @@ permalink: /history/
 
 * LinuxCon NA, [Security in the Cloud: Xen, KVM, Containers](http://www.slideshare.net/xen_com_mgr/lcna14-security-of-virtualization-solutions), *George Dunlap*
 
-* Xen Summit, [Security and the Properties of a Xen Virtualization Platform](http://www.slideshare.net/xen_com_mgr/tricca-xen-summit2014), *Philip Tricca*
+* Xen Summit, [Security and the Properties of a Xen Virtualization Platform](http://www.slideshare.net/xen_com_mgr/tricca-xen-summit2014), *Philip Tricca* ([video](https://www.youtube.com/watch?v=ESS2UGBi4eI))
 
 2013
 
 * LinuxCon EU, [Securing your cloud with Xen's advanced security features](http://www.slideshare.net/xen_com_mgr/lceu13-securing-your-cloud-with-xens-advanced-security-features-ge), *George Dunlap* ([video](http://www.youtube.com/watch?v=fvW3kzl-bfY))
 
-* Xen Summit, [In-Guest Mechanisms to Strengthen Guest Separation](http://www.slideshare.net/xen_com_mgr/xen-summit-2013triccastrengthen-guest-separation), *Philip Tricca*
+* Xen Summit, [In-Guest Mechanisms to Strengthen Guest Separation](http://www.slideshare.net/xen_com_mgr/xen-summit-2013triccastrengthen-guest-separation), *Philip Tricca* ([video](https://www.youtube.com/watch?v=6Q8mlTBn-ZI))
 
 * Xen Summit, [Secure Server Project](http://www.slideshare.net/xen_com_mgr/xen-summit2013-secureserverproject), *Jason Sonnek* ([video](http://www.youtube.com/watch?v=v_RJZTFcKoc))
 
