@@ -56,7 +56,7 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
 
  * 13:00 Looking to the Future: ARM Client Virtualization and Operating with an Untrusted dom0, *Kyle Temkin*, Assured Information Security
  
- > As the OpenXT platform has developed and matured, the upstream Xen community has focused on a number of new architectural developments and enhancements—many of which can be used to significantly enhance the OpenXT project. This talk explores two separate areas that may significantly shape the future of OpenXT: the development of client virtualization support for ARM platforms, and the potential to leverage new Xen features and disaggregation techniques to significantly improve OpenXT’s security posture
+ > As the OpenXT platform has developed and matured, the upstream Xen community has focused on a number of new architectural developments and enhancements—many of which can be used to significantly enhance the OpenXT project. This talk explores two separate areas that may significantly shape the future of OpenXT: the development of client virtualization support for ARM platforms, and the potential to leverage new Xen features and disaggregation techniques to significantly improve OpenXT’s security posture.
 
  * 13:30 Display Handlers, *Brendan Kerrigan*, Assured Information Security
  
