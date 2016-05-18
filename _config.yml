@@ -5,10 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Development toolkit for hardware-assisted security research and appliance integration. Integrity measurement, virtualization, encapsulation and privacy.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://openxt.org" # the base hostname & protocol for your site
-twitter_username:  OpenXT
+twitter_username:
+github_username: OpenXT 
 jira_url: https://openxt.atlassian.net
-github_username:  
-github_wikipath: OpenXT/openxt/wiki
+confluence_url: https://openxt.atlassian.net/wiki
 googlegroup: openxt
 
 # Build settings
