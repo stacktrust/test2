@@ -8,11 +8,19 @@ permalink: /history/
 
 #### 2016
 
+* [Simplevisor](http://ionescu007.github.io/SimpleVisor/), *Alex Ionescu*
+
+* [iOS 9 Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf), *Apple*
+
+* BSides, [QNX Security Architecture Whitepaper](https://labs.mwrinfosecurity.com/publications/qnx-architectural/)
+
 * [Open-source microkernel projects](http://www.microkernel.info), Jakub Jermar
 
 #### 2015
 
 * Xen Summit, [Virtual Machine Introspection with Xen](http://events.linuxfoundation.org/sites/events/files/slides/xendevsummit.pdf), *Tamas Lengyel* ([video](https://www.youtube.com/watch?v=k0BVFyyuvRA))
+
+* blackhat, [How Windows 10 rewrites OS architecture](http://www.alex-ionescu.com/blackhat2015.pdf), *Alex Ionescu*
 
 * [Genode OS Architecture](http://genode.org/documentation/genode-foundations-15-05.pdf), *Norman Feske*
 
@@ -66,16 +74,17 @@ permalink: /history/
 
 * Computer History Museum, [ACM Conference on the History of Personal Workstations](http://www.computerhistory.org/atchm/the-1986-acm-conference-on-the-history-of-personal-workstations/)
 
-## Research
+## Research Papers
 
 #### 2013
+
+* IEEE Symposium on Security and Privacy, [XMHF: Design, Implementation and Verification of an eXtensible and Modular Hypervisor Framework](http://ieeexplore.ieee.org/ielx7/6547086/6547088/06547125.pdf?tp=&arnumber=6547125&isnumber=6547088), *Amit Vasudevan et al.*
 
 * Security Protocols Workshop, [Towards a Theory of Application Compartmentalisation](http://www.cl.cam.ac.uk/~kg365/pubs/2013spw-compartmentalisation.pdf), *Robert N.M. Watson et al.*
 
 * ASPLOS, [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf), *Anil Madhavapeddy et al.*
 
 * SOSP, [VirtuOS: an operating system with kernel virtualization](http://people.cs.vt.edu/~gback/papers/sosp13final.pdf), *Ruslan Nikolaev and Godmar Back*
-
 
 #### 2011 
 
@@ -88,6 +97,14 @@ service VMs. We show that this componentized abstraction brings a number of
 benefits: sharing of service components by guests is configurable and auditable, 
 making exposure to risk explicit, and access to the hypervisor is restricted 
 to the least privilege required for each component."
+
+ * [Bear – A Resilient Operating System for Scalable Multi-processors1](http://thayer.dartmouth.edu/tr/reports/tr11-005.pdf), *Stephen Taylor et al.*
+ 
+> "This paper describes a minimalist operating system design aimed at scalable multi- processor systems whose primary goal is resilience. The design is expressly targeted toward critical military applications for the purpose of operating through failures, errors, and malicious attacks."
+
+#### 2010
+
+* [Folk Models of Home Computer Security](http://www.rickwash.com/papers/rwash-homesec-soups10-final.pdf), *Rick Wash*
 
 #### 2008 
 
