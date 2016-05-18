@@ -98,7 +98,7 @@ benefits: sharing of service components by guests is configurable and auditable,
 making exposure to risk explicit, and access to the hypervisor is restricted 
 to the least privilege required for each component."
 
- * [Bear – A Resilient Operating System for Scalable Multi-processors1](http://thayer.dartmouth.edu/tr/reports/tr11-005.pdf), *Stephen Taylor et al.*
+ * [Bear – A Resilient Operating System for Scalable Multi-processors](http://thayer.dartmouth.edu/tr/reports/tr11-005.pdf), *Stephen Taylor et al.*
  
 > "This paper describes a minimalist operating system design aimed at scalable multi-processor systems whose primary goal is resilience. The design is expressly targeted toward critical military applications for the purpose of operating through failures, errors, and malicious attacks."
 
