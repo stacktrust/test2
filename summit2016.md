@@ -13,7 +13,7 @@ Released as open-source software in 2014, OpenXT stands on the shoulders of the 
 
 OpenXT enables loose coupling of open-source and proprietary software components, verifiable measurements of hardware and software, and verified launch of derivative products.  It has been used to develop centrally managed software appliances that isolate high-risk workloads, networks and devices. 
 
-The 2016 OpenXT Summit will chart the evolution of OpenXT from cross-domain endpoint virtualization to an extensible systems innovation platform, enabling derivative products to make security assurances for diverse hardware, markets and use cases.  
+The 2016 OpenXT Summit will chart the evolution of OpenXT from cross-domain endpoint virtualization to an extensible systems innovation platform, enabling derivative products to make security assurances for diverse hardware, markets and use cases.
 
 ### Registration
 
@@ -21,8 +21,7 @@ There is no fee for attendance, but space is limited and building security will 
 
  * First and last name
  * Organizational affiliation
- * Publish name and organization in public attendee list: Yes/No
- 
+ * Publish name and organization in public attendee list: Yes/No 
 
 ### Location
 
