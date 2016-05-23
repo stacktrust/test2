@@ -6,7 +6,6 @@ permalink: /summit/
 
 ## 2016 OpenXT Summit
 
-
 The inaugural OpenXT Summit brings together developers and ecosystem participants for a 2-day conference in Fairfax, VA, USA on June 7-8, 2016.   The event is hosted by Intel Corporation.  The audience for this event includes kernel and application developers, hardware designers, system integrators and security architects.
 
 Released as open-source software in 2014, OpenXT stands on the shoulders of the Xen Project, OpenEmbedded Linux and Citrix XenClient XT.  It is optimized for hardware-assisted virtualization with an IOMMU and a TPM.  Guest operating systems include Windows, Linux and FreeBSD. 
