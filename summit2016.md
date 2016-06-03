@@ -6,9 +6,9 @@ permalink: /summit/
 
 ### Program Summary
 
- * [Day 1 Presentations](#presentations): 8:45am - 5:15pm, Tuesday 7th June
- * Evening Reception: 5:30pm - 7:00pm, Tuesday 7th June
- * [Day 2 Discussions](#discussions): 9:00am - 5:00pm, Wednesday 8th June
+ * [Day 1 Presentations](#presentations): 8:45am - 5:15pm, Tuesday 7th June, 2016
+ * Evening Reception: 5:30pm - 7:00pm, Tuesday 7th June, 2016
+ * [Day 2 Discussions](#discussions): 9:00am - 5:00pm, Wednesday 8th June, 2016
  * Devices permitted, wireless internet and some power outlets available
  * Breakfast, Lunch & Snack will be served
  * [Directions](#location)
