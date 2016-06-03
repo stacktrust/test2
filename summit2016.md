@@ -4,6 +4,15 @@ title: Summit
 permalink: /summit/
 ---
 
+### Program Summary
+
+ * [Day 1 Presentations](#presentations): 8:45am - 5:15pm, Tuesday 7th June, 2016
+ * Evening Reception: 5:30pm - 7:00pm, Tuesday 7th June, 2016
+ * [Day 2 Discussions](#discussions): 9:00am - 5:00pm, Wednesday 8th June, 2016
+ * Devices permitted, wireless internet and some power outlets available
+ * Breakfast, Lunch & Snack will be served
+ * [Directions](#location)
+ 
 ## 2016 OpenXT Summit
 
 The inaugural OpenXT Summit brings together developers and ecosystem participants for a 2-day conference in Fairfax, VA, USA on June 7-8, 2016.   The event is hosted by Intel Corporation.  The audience for this event includes kernel and application developers, hardware designers, system integrators and security architects.
@@ -20,23 +29,29 @@ There is no fee for attendance, but space is limited and building security will 
 
  * First and last name
  * Organizational affiliation
- * Publish name and organization in public attendee list: Yes/No 
+ * Publish name and organization in public attendee list: Yes/No
 
-### Location
+### <a name="location"></a> Location
 
 The event will take place at Intel Corporation, [4100 Monument Corner Drive](https://goo.gl/maps/hqaSDhDshx62), Suite 540, Fairfax, VA 22030.
 
-### Schedule Summary
+### Transportation
 
- * Presentations: 8:45am - 5:15pm, Tuesday 7 June
- * Evening Reception: 5:30pm - 7:00pm, Tuesday 7 June
- * Discussions: 9:00am - 5:00pm, Wednesday 8 June
+ * Visitor parking: free, available on-site
+ * 6 miles, Washington Metro station, Vienna/Fairfax-GMU (Orange Line)
+ * 12 miles, Dulles (IAD) Airport
+ * 22 miles, Washington Reagan (DCA) Airport
+ * 24 miles, Amtrak Union Station
+
+### <a name="presentations"></a> Sponsors
+
+<a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:00 Breakfast
 
- * 08:45 Introduction, *Speaker TBD*
+ * 08:45 Introduction
  
  * 09:00 OpenXT Architecture, *Christopher Clark*, BAE Systems
  
@@ -88,17 +103,21 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
   
  > Over time there has been a lot of talks and proposals for improving Xen and dom0 basic security principles, but many are not followed years later. This talk will focus on a few items that can be done today, items that can be done relatively easily and items that we would like to undertake in the future. Attendees are invited to join the discussion and help come up with a plan. The end goal will be to make this a standing topic at future Xen conferences to keep focus on this area and continue to evolve the security of Xen and of the dom0 baseline.
  
- * 16:15 Topic TBD, *Speaker TBD*
-  
- > Abstract TBD
+ * 16:15 Virtualization Based Security – Big Deal or BS?, *Sherban Naum*, Bromium
+
+> Endpoints and their human users are increasingly subjected to sophisticated, targeted attacks that evade detection to compromise the system in some unforeseen way. But a new defensive technique can change the odds in favor of security “by design”. Virtualization Based Security is a term that incorporates several approaches: micro-virtualization mutually isolates applications, whereas a virtual secure mode within an OS can be used to protect key data and processes – as in Windows 10. Intel VT can enable hardware enforced isolation between tasks within a single OS – using micro-virtualization and a specialized hypervisor that has been modified for inter-task isolation, called a Microvisor. In our work we use an extension of the Xen Project® hypervisor. Micro-virtualization reduces the attack surface of the OS by several orders of magnitude. It can be integrated into a PC or mobile device in a way that does not interfere with the user experience. Finally, its granular isolation of single tasks permits real-time introspection and detection of otherwise undetectable malware.
  
  * 16:45 Virtualization and Business Models, *Rich Persaud*, BAE Systems
  
  > License revenue for proprietary operating systems on OEM hardware is being supplanted by vertically integrated hardware, utility pricing of hosted services, and fees for "app store" software distribution. End-users often work across multiple device form factors, connected to public and private services. As diverse hardware and networked services proliferate, in complex supply chains with open and closed components, how can virtualization architectures support evolving business models?
  
  * 17:15 End of Day 1 presentations 
+ 
+ * 17:30 Evening Reception
 
-### Discussion Agenda: Wednesday 8 June, 2016
+### <a name="discussions"></a> Discussion Agenda: Wednesday 8 June, 2016
+
+Please add your questions and discussion topics to the [OpenXT wiki](https://openxt.atlassian.net/wiki/display/CS/Discussion+Topics).
 
  * 08:00 Breakfast
 
@@ -114,7 +133,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  
  > Moderator: *Brendan Kerrigan*, Assured Information Security
  
- * 10:40 Break
+ * 10:30 Break
  
  * 11:00 Planning: Upstream: Xen, Qemu, OpenEmbedded, meta-virtualization, meta-openxt 
  
@@ -163,10 +182,6 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 3 miles, [Hampton Inn Fairfax City](http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-fairfax-city-FFCVAHX/index.html)
  * 8 miles, [Westin Reston Heights](http://westinreston.com)
 
-### Car, Air and Train
 
- * Visitor parking: available on-site
- * 6 miles, Washington Metro station, Vienna/Fairfax-GMU (Orange Line)
- * 12 miles, Dulles (IAD) Airport
- * 22 miles, Washington Reagan (DCA) Airport
- * 24 miles, Amtrak Union Station
+
+Intel and the Intel logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
