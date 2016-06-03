@@ -43,11 +43,11 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 22 miles, Washington Reagan (DCA) Airport
  * 24 miles, Amtrak Union Station
 
-### Sponsors
+### <a name="presentations"></a> Sponsors
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
 
-### <a name="presentations"></a> Presentation Agenda: Tuesday 7 June, 2016
+### Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:00 Breakfast
 
