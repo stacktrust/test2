@@ -46,6 +46,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 ### <a name="presentations"></a> Sponsors
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
+<a href="http://apertussolutions.com"><img src="{{ site.baseurl }}/images/apertus.png" width="150" style="margin: 20px 50px"></a>
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
@@ -77,19 +78,19 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 
  * 12:00 Lunch
 
- * 13:00 Looking to the Future: ARM Client Virtualization and Operating with an Untrusted dom0, *Kyle Temkin*, Assured Information Security
+ * 13:00 Toolstack Modernization, *Chris Rogers*, Assured Information Security
  
- > As the OpenXT platform has developed and matured, the upstream Xen community has focused on a number of new architectural developments and enhancements—many of which can be used to significantly enhance the OpenXT project. This talk explores two separate areas that may significantly shape the future of OpenXT: the development of client virtualization support for ARM platforms, and the potential to leverage new Xen features and disaggregation techniques to significantly improve OpenXT’s security posture
-
+ > Much OpenXT development over the past year has been motivated by our desire to bring the code base more in line with upstream counterparts.  The Modernization of the toolstack is another such effort.  Until now, OpenXT has used a XenServer-derived toolstack component (xenvm) underneath a domain management-level component (XenMgr). Since the Xen Project has adopted XL as its default toolstack, OpenXT should do the same in order to further reduce technical debt and support newer versions of Xen. Specifically, the Toolstack Modernization effort incorporates libXL into the base platform and focuses on four major areas of integration: communication between XenMgr and libXL, linux-based stubdomains on libXL, removal of old helper daemons such as dm-agent, and support for newer versions of blktap.
+ 
  * 13:30 Display Handlers, *Brendan Kerrigan*, Assured Information Security
  
  > Display Handler is a framework and implementation for handling diverse guest and host rendering environments in client virtualization systems. The goal of the project was to address deficiencies in OpenXT's surfman, while providing flexibility to easily integrate forthcoming virtual graphics technologies (such as Intel XenGT). This talk will cover the overall architecture, design decisions, strengths, and weaknesses of Display Handler. It will also provide a comparison of surfman, as currently integrated into OpenXT, and Display Handler. Finally, a road map for future work will be presented.
 
- * 14:00 Toolstack Modernization, *Chris Rogers*, Assured Information Security
+ * 14:00 Looking to the Future: ARM Client Virtualization and Operating with an Untrusted dom0, *Kyle Temkin*, Assured Information Security
  
- > Much OpenXT development over the past year has been motivated by our desire to bring the code base more in line with upstream counterparts.  The Modernization of the toolstack is another such effort.  Until now, OpenXT has used a XenServer-derived toolstack component (xenvm) underneath a domain management-level component (XenMgr). Since the Xen Project has adopted XL as its default toolstack, OpenXT should do the same in order to further reduce technical debt and support newer versions of Xen. Specifically, the Toolstack Modernization effort incorporates libXL into the base platform and focuses on four major areas of integration: communication between XenMgr and libXL, linux-based stubdomains on libXL, removal of old helper daemons such as dm-agent, and support for newer versions of blktap.
- 
- * 14:30 Test Automation (UI, ATF, BVT), *Garrett Morgan*, Assured Information Security
+ > As the OpenXT platform has developed and matured, the upstream Xen community has focused on a number of new architectural developments and enhancements—many of which can be used to significantly enhance the OpenXT project. This talk explores two separate areas that may significantly shape the future of OpenXT: the development of client virtualization support for ARM platforms, and the potential to leverage new Xen features and disaggregation techniques to significantly improve OpenXT’s security posture
+
+ * 14:30 Test Automation (UI, ATF, BVT), *Chris Rogers*, Assured Information Security
  
  > How do we implement an automated test framework on a virtualized platform?  The current CLI-based implementation (BVT) provides a great foundation, and is currently being expanded.  In parallel, a UI-based OO automation framework/plugin is being explored which utilizes Intel's AMT KVM and the SikuliX Java application.  As with any automated framework, certain compromises are made, and by integrating the two technologies we look to expand the testing capabilities and bring the test devices as close to a production configuration as possible.
  
@@ -99,7 +100,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  
 > As networks become increasingly targeted by attackers in search of sensitive data, a new data protection model is arising: one in which data must be protected even on contested networks. In this new paradigm, a stronger isolation boundary is needed than the current process model of the status quo: hardware-enforced enclaves are a step towards true data protection in contested networks. This talk provides a background of enclaves provided by Intel SGX, followed by an example case study of well-known malware that could have been prevented through the deployment of enclave technologies. Finally a discussion on the weaknesses of the current enclave technologies is provided before concluding remarks.
  
- * 15:45 Securing dom0 today and in the future, *Derek Straka*, Star Lab
+ * 15:45 Securing dom0 today and in the future, *Doug Goldstein*, Star Lab
   
  > Over time there has been a lot of talks and proposals for improving Xen and dom0 basic security principles, but many are not followed years later. This talk will focus on a few items that can be done today, items that can be done relatively easily and items that we would like to undertake in the future. Attendees are invited to join the discussion and help come up with a plan. The end goal will be to make this a standing topic at future Xen conferences to keep focus on this area and continue to evolve the security of Xen and of the dom0 baseline.
  
@@ -110,6 +111,8 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 16:45 Virtualization and Business Models, *Rich Persaud*, BAE Systems
  
  > License revenue for proprietary operating systems on OEM hardware is being supplanted by vertically integrated hardware, utility pricing of hosted services, and fees for "app store" software distribution. End-users often work across multiple device form factors, connected to public and private services. As diverse hardware and networked services proliferate, in complex supply chains with open and closed components, how can virtualization architectures support evolving business models?
+ 
+ * 17:00 OpenEmbedded Ecosystem, *Philip Balister*, OpenSDR
  
  * 17:15 End of Day 1 presentations 
  
