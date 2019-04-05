@@ -1,0 +1,31 @@
+.table-small {
+    border-collapse: collapse;
+
+    table, td, th {
+        text-align: left;
+        border: 1px solid darkgray;
+        padding: 4px;
+        font-size: 0.95em;
+    }
+
+    tr:nth-child(even) {
+        background: #eee;
+    }
+}
+
+/*
+ * Table of Contents
+ */
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 2.5em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
+
+#markdown-toc ul {
+    list-style: none;
+}
